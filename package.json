@@ -1,0 +1,19 @@
+{
+  "name": "accost",
+  "version": "1.0.0",
+  "description": "Generate a random address to anonymous user",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/grinnery/accost.git"
+  },
+  "author": "And grin <a@grin.ly>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/grinnery/accost/issues"
+  },
+  "homepage": "https://github.com/grinnery/accost#readme"
+}
